@@ -21,3 +21,21 @@ h1{
   font-size:18px;
   color:white;
 }
+
+.process{
+  text-align:center;
+}
+
+.process h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.identify h3, .understand h3, .execute h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
