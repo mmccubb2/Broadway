@@ -1,5 +1,6 @@
 body{
   font-family:Helvetica, sans-serif;
+  text-align: center;
 }
 
 
@@ -15,11 +16,9 @@ h1{
   color:white;
 }
 
-.nav li{
-  text-decoration: underline;
-  list-style-type: none;
-  font-size:18px;
-  color:white;
+.nav {
+  font-size: 18px;
+color: white;
 }
 
 .process{
@@ -45,4 +44,11 @@ p {
   font-size: 23px;
   color:white;
   background-image: url("../images/the-flatiron-building.png");
+}
+
+
+.footer-nav{
+  text-align: left !important;
+  background-color: dimgray;
+  color:white;
 }
